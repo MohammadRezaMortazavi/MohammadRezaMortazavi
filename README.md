@@ -7,21 +7,21 @@
 
 ## 👨‍💻 About Me
 
-- I’m an **Applied Computer Science student at Saxion University**[cite: 1] and currently an **Embedded Software Engineering Intern at SMART Mechatronics and Robotics**[cite: 1].
-- I specialize in bridging hardware and software, building high-performance systems without a garbage collector[cite: 1]. If it involves microcontrollers, asynchronous state machines, or complex datasets, I'm in[cite: 1].
+- I’m an **Applied Computer Science student at Saxion University** and currently an **Embedded Software Engineering Intern at SMART Mechatronics and Robotics**.
+- I specialize in bridging hardware and software, building high-performance systems without a garbage collector. If it involves microcontrollers, asynchronous state machines, or complex datasets, I'm in.
 - **Current Focus:**
-  - 🦀 **Embedded & Bare-Metal Programming:** Writing asynchronous firmware for STM32 microcontrollers using Rust and the Embassy Framework[cite: 1].
-  - 🤖 **HMI & Robotics Integration:** Designing Terminal User Interfaces (TUI) with Ratatui and embedded-graphics for robotic prototypes like the "CablePeeler"[cite: 1].
-  - 🧠 **Machine Learning & Data:** Developing Python-based algorithms using TensorFlow and Scikit-learn to model and predict patterns from experimental data[cite: 1].
+  - 🦀 **Embedded & Bare-Metal Programming:** Writing asynchronous firmware for STM32 microcontrollers using Rust and the Embassy Framework.
+  - 🤖 **HMI & Robotics Integration:** Designing Terminal User Interfaces (TUI) with Ratatui and embedded-graphics for robotic prototypes like the "CablePeeler".
+  - 🧠 **Machine Learning & Data:** Developing Python-based algorithms using TensorFlow and Scikit-learn to model and predict patterns from experimental data.
 
 <br>
 
 ## 🚀 Technical Projects & Experience
 
-- **CablePeeler Robotic Prototype** - Designed and integrated a TUI and implemented asynchronous state machines to manage rotary encoders and motor controllers (Rust, Ratatui)[cite: 1].
-- **Machine Learning Classification Model** - Trained models to classify raw experimental data based on energy levels, optimizing accuracy with data matching techniques (Python, Scikit-learn, Matplotlib)[cite: 1].
-- **IoT Prototyping & Telemetry** - Developed sensor integration and data acquisition systems using communication protocols like MQTT, Serial, Bluetooth, and Wi-Fi[cite: 1].
-- **Multi-lingual Morse Code Decoder** - Embedded system development based on C/C++ and FSM logic[cite: 1].
+- **CablePeeler Robotic Prototype** - Designed and integrated a TUI and implemented asynchronous state machines to manage rotary encoders and motor controllers (Rust, Ratatui).
+- **Machine Learning Classification Model** - Trained models to classify raw experimental data based on energy levels, optimizing accuracy with data matching techniques (Python, Scikit-learn, Matplotlib).
+- **IoT Prototyping & Telemetry** - Developed sensor integration and data acquisition systems using communication protocols like MQTT, Serial, Bluetooth, and Wi-Fi.
+- **Multi-lingual Morse Code Decoder** - Embedded system development based on C/C++ and FSM logic.
 
 <br>
 
@@ -41,12 +41,12 @@
 ## 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaMortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaMortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezamortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezamortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRezaMortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadrezamortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
 </div>
 
 <br>
