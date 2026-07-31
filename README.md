@@ -1,43 +1,40 @@
 <div align="center">
   <h1>Mohammadreza (Mike) Mortazavi</h1>
-  <h3>Applied Computer Science Student | Embedded Systems Engineer | Professional Hardware Whisperer</h3>
+  <h3>Applied Computer Science Student | Embedded Software Engineer | IoT & ML Enthusiast</h3>
 </div>
 
 <br>
 
 ## 👨‍💻 About Me
 
-- I’m an **Applied Computer Science student at Saxion University** by day, and an Embedded Systems enthusiast by slightly-later-in-the-day.
-- I enjoy building practical, reliable systems... which is a highly professional way of saying I spend 80% of my time wondering why my C pointer just caused a segmentation fault and if my microcontroller is secretly plotting against me. 🔥
+- I’m an **Applied Computer Science student at Saxion University**[cite: 1] and currently an **Embedded Software Engineering Intern at SMART Mechatronics and Robotics**[cite: 1].
+- I specialize in bridging hardware and software, building high-performance systems without a garbage collector[cite: 1]. If it involves microcontrollers, asynchronous state machines, or complex datasets, I'm in[cite: 1].
 - **Current Focus:**
-  - 🦀 **Asynchronous Firmware (Rust & STM32G4):** Trying to make hardware do things fast without letting out the magic blue smoke.
-  - 📟 **Morse Code Decoders & FSMs:** Translating beep-boops into readable text so I don't have to learn Morse manually.
-  - 🌐 **Full-Stack Development (Next.js):** Centering `<div>`s, breaking production, and fixing it before anyone notices.
+  - 🦀 **Embedded & Bare-Metal Programming:** Writing asynchronous firmware for STM32 microcontrollers using Rust and the Embassy Framework[cite: 1].
+  - 🤖 **HMI & Robotics Integration:** Designing Terminal User Interfaces (TUI) with Ratatui and embedded-graphics for robotic prototypes like the "CablePeeler"[cite: 1].
+  - 🧠 **Machine Learning & Data:** Developing Python-based algorithms using TensorFlow and Scikit-learn to model and predict patterns from experimental data[cite: 1].
 
 <br>
 
-## 🚀 Featured Projects
+## 🚀 Technical Projects & Experience
 
-- **STM32G4 Asynchronous Firmware** - Rust-based firmware optimizations (a.k.a. writing code that screams, "Please don't brick the expensive board!").
-- **Multi-lingual Morse Code Decoder** - Embedded finite state machine system (because why send a normal message when you can tap a button rhythmically?).
-- **Wheatstone Bridge Analysis System** - Electronic instrumentation and display logic (calculating resistance with mathematical precision so my circuits don't fry).
-- **AsanaOne Platform** - Scalable full-stack web platform with Next.js & Python (because humans definitely need more automated dashboards to track their lives).
+- **CablePeeler Robotic Prototype** - Designed and integrated a TUI and implemented asynchronous state machines to manage rotary encoders and motor controllers (Rust, Ratatui)[cite: 1].
+- **Machine Learning Classification Model** - Trained models to classify raw experimental data based on energy levels, optimizing accuracy with data matching techniques (Python, Scikit-learn, Matplotlib)[cite: 1].
+- **IoT Prototyping & Telemetry** - Developed sensor integration and data acquisition systems using communication protocols like MQTT, Serial, Bluetooth, and Wi-Fi[cite: 1].
+- **Multi-lingual Morse Code Decoder** - Embedded system development based on C/C++ and FSM logic[cite: 1].
 
 <br>
 
-## 🛠️ Tech Stack (The things I Google daily)
+## 🛠️ Tech Stack (The Core Arsenal)
 
-**Languages (Where the pointers get lost)**<br>
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,python,ts,js" />
+**Systems & Embedded (The "Please don't burn" Starter Pack)**<br>
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/C%2F%2B%2B-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" /> <img src="https://skillicons.dev/icons?i=raspberrypi" />
 
-**Frontend & Backend (Making things look pretty & handling the spaghetti)**<br>
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,tailwind" />
+**Data Science & Machine Learning (Math & Matrices)**<br>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,matlab" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
-**Databases, Cloud & DevOps (It works on my machine™)**<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,mysql,sqlite" />
-
-**Robotics & Embedded (The "Please don't burn" Starter Pack)**<br>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/FSM_Logic-8A2BE2?style=for-the-badge" />
+**Full-Stack & Tools (Making things work™)**<br>
+<img src="https://skillicons.dev/icons?i=nextjs,linux,git,github,docker" /> <img src="https://img.shields.io/badge/Nix-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
 
 <br>
 
@@ -66,7 +63,7 @@
 
 <br>
 
-## 🤝 Connect With Me (I promise I don't bite)
+## 🤝 Connect With Me
 
 <a href="mailto:mohammadrezamortazavi04@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SEND_MEMES-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/mohammadreza-mortazavi/"><img src="https://img.shields.io/badge/LINKEDIN-LET'S_CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
