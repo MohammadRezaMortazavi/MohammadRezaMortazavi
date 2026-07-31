@@ -41,15 +41,13 @@
 ## 📊 GitHub Analytics & Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadrezamortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadrezamortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaMortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaMortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" alt="Top Languages" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadrezamortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRezaMortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" width="100%" alt="GitHub Trophies" />
 </div>
-
-<br>
 
 ## 🐍 Contribution Snake
 
