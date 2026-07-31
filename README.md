@@ -1,6 +1,13 @@
 <div align="center">
-  <h1>Mohammadreza (Mike) Mortazavi</h1>
-  <h3>Applied Computer Science Student | Embedded Software Engineer | IoT & ML Enthusiast</h3>
+  <!-- Animated Typing Header -->
+  <a href="https://github.com/MohammadRezaMortazavi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Mohammadreza!+👋;Applied+Computer+Science+Student;Embedded+Software+Engineer;IoT+%26+ML+Enthusiast;Professional+Hardware+Whisperer" alt="Typing SVG" />
+  </a>
+  
+  <br>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=MohammadRezaMortazavi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views">
 </div>
 
 <br>
@@ -38,16 +45,35 @@
 
 <br>
 
-## 📊 GitHub Analytics & Trophies
+## 📈 GitHub Analytics & Activity
+
+<!-- Activity Graph (New) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohammadRezaMortazavi&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br>
+
+<!-- Streak & Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadRezaMortazavi&theme=tokyonight&hide_border=true&background=0D1117" width="100%" alt="GitHub Streak" />
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaMortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaMortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=1" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MohammadRezaMortazavi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadRezaMortazavi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=2" width="48%" alt="Top Languages" />
 </div>
+
 <br>
+
+<!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRezaMortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MohammadRezaMortazavi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&v=2" width="100%" alt="GitHub Trophies" />
 </div>
+
+<br>
 
 ## 🐍 Contribution Snake
 
